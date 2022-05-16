@@ -1,2 +1,8 @@
 # Test-Lybox
-Test Technique Lybox RAKOTOMAVO Dina Gabriel
+
+Réalisé en JavaScript
+
+
+Test Technique Lybox 
+
+Autheur : RAKOTOMAVO Dina Gabriel
